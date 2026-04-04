@@ -50,3 +50,4 @@
 - **2026-04-02** — [Eleni Karaindrou – The Weeping Meadow](https://www.youtube.com/watch?v=uDFpcSc7IcY)
 - **2026-04-04** — [Gemide (On Board) - Soundtrack](https://www.youtube.com/watch?v=Ituzi_-9RJI)
 - **2026-04-04** — [İnci Tanem](https://www.youtube.com/watch?v=Htrzfp-lrwQ)
+- **2026-04-04** — [TARKAN - Kış Güneşi (Official Music Video)](https://www.youtube.com/watch?v=-CxauCeQ_SQ&list=RD-CxauCeQ_SQ&start_radio=1)
