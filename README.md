@@ -27,10 +27,10 @@ As the timeline $n$ increases:
 
 <!-- CHOSEN_TODAY:START -->
 
-🎵 [**TARKAN - Kış Güneşi (Official Music Video)**](https://www.youtube.com/watch?v=-CxauCeQ_SQ&list=RD-CxauCeQ_SQ&start_radio=1)
+🎵 [**Anouar Brahem "Halfaouine" Live in Carthage - 2014**](https://www.youtube.com/watch?v=1Z7RJOAkXMo&list=RD1Z7RJOAkXMo&start_radio=1)
 
-<a href="https://www.youtube.com/watch?v=-CxauCeQ_SQ&list=RD-CxauCeQ_SQ&start_radio=1">
-  <img src="https://img.youtube.com/vi/-CxauCeQ_SQ/maxresdefault.jpg" width="320"/>
+<a href="https://www.youtube.com/watch?v=1Z7RJOAkXMo&list=RD1Z7RJOAkXMo&start_radio=1">
+  <img src="https://img.youtube.com/vi/1Z7RJOAkXMo/maxresdefault.jpg" width="320"/>
 </a>
 
 <!-- CHOSEN_TODAY:END -->
