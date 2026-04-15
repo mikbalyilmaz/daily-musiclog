@@ -52,3 +52,4 @@
 - **2026-04-04** — [İnci Tanem](https://www.youtube.com/watch?v=Htrzfp-lrwQ)
 - **2026-04-04** — [TARKAN - Kış Güneşi (Official Music Video)](https://www.youtube.com/watch?v=-CxauCeQ_SQ&list=RD-CxauCeQ_SQ&start_radio=1)
 - **2026-04-07** — [Anouar Brahem "Halfaouine" Live in Carthage - 2014](https://www.youtube.com/watch?v=1Z7RJOAkXMo&list=RD1Z7RJOAkXMo&start_radio=1)
+- **2026-04-15** — [Kurtlar Vadisi - Hekimoğlu Zurna V2](https://www.youtube.com/watch?v=ii_3-TfXx1c&list=RD0XAGpGiJ39A&index=4)
