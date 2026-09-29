@@ -1,7 +1,7 @@
 import sys
 from pathlib import Path
+import re
 
-# Python'un klasörleri doğru bulması için:
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 
 import argparse
@@ -17,6 +17,35 @@ csv_path = DATA / "daily_tracks.csv"
 jsonl_path = DATA / "daily_tracks.jsonl"
 archive_path = DOCS / "archive.md"
 
+PROFILE_REPO = Path.home() / "Desktop" / "mikbalyilmaz"
+
+def update_profile_readme(title, url, thumb):
+    profile_readme = PROFILE_REPO / "README.md"
+    if not profile_readme.exists():
+        print(f"⚠️ Profil README bulunamadı: {profile_readme}")
+        return
+
+    content = profile_readme.read_text(encoding="utf-8")
+    
+    new_block = f"""### Chosen from the list today;
+
+<a href="{url}" target="_blank" rel="noopener noreferrer">
+<img src="{thumb}" width="320" alt="{title}"/>
+</a>
+<br/>
+🎵
+<a href="{url}" target="_blank" rel="noopener noreferrer">
+<b>{title}</b>
+</a>"""
+
+    pattern = r"### Chosen from the list today;[\s\S]*?(?=\n# Muhammed İkbal Yılmaz|\Z)"
+    if re.search(pattern, content):
+        updated_content = re.sub(pattern, new_block + "\n\n", content, count=1)
+        profile_readme.write_text(updated_content, encoding="utf-8")
+        print("✅ Profil README başarıyla güncellendi!")
+    else:
+        print("⚠️ Profil README içinde 'Chosen from the list today;' bölümü bulunamadı.")
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--url", required=True)
@@ -26,10 +55,8 @@ def main():
     url = args.url
     video_id = extract_video_id(url)
     
-    # Başlığı YouTube API üzerinden alıyoruz
     title = get_video_title(video_id)
 
-    # Veri setini güncelleme
     if csv_path.exists():
         df = pd.read_csv(csv_path)
     else:
@@ -43,28 +70,36 @@ def main():
         for _, r in df.iterrows():
             f.write(pd.Series(r).to_json(force_ascii=False) + "\n")
 
-    # README güncelleme
     thumb = make_thumbnail(video_id)
     update_readme(title, url, thumb)
 
-    # Arşiv güncelleme (HATA DÜZELTİLDİ)
     line = f"- **{today}** — [{title}]({url})\n"
-    
-    if not archive_path.exists(): archive_path.write_text("# Archive\n\n")
+    if not archive_path.exists(): 
+        archive_path.write_text("# Archive\n\n")
     content = archive_path.read_text(encoding="utf-8")
     if line not in content:
         with open(archive_path, "a", encoding="utf-8") as f:
             f.write(line)
 
-    # Otomatik GitHub Push
-    print(f"🚀 GitHub'a yükleniyor: {title}")
+    print(f"🚀 daily-musiclog GitHub'a yükleniyor: {title}")
     try:
         subprocess.run(["git", "add", "."], check=True)
         subprocess.run(["git", "commit", "-m", f"Add track: {title}"], check=True)
         subprocess.run(["git", "push"], check=True)
-        print("✅ Her şey başarıyla güncellendi!")
+        print("✅ daily-musiclog başarıyla güncellendi!")
     except Exception as e:
-        print(f"❌ Git hatası (veya gönderilecek yeni bir şey yok): {e}")
+        print(f"❌ daily-musiclog Git hatası: {e}")
+
+    if PROFILE_REPO.exists():
+        update_profile_readme(title, url, thumb)
+        print("🚀 Profil GitHub reposu güncelleniyor...")
+        try:
+            subprocess.run(["git", "-C", str(PROFILE_REPO), "add", "."], check=True)
+            subprocess.run(["git", "-C", str(PROFILE_REPO), "commit", "-m", f"Update daily track: {title}"], check=True)
+            subprocess.run(["git", "-C", str(PROFILE_REPO), "push"], check=True)
+            print("✅ GitHub profil sayfan da başarıyla güncellendi!")
+        except Exception as e:
+            print(f"❌ Profil Git hatası: {e}")
 
 if __name__ == "__main__":
     main()
