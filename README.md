@@ -27,10 +27,10 @@ As the timeline $n$ increases:
 
 <!-- CHOSEN_TODAY:START -->
 
-🎵 [**Sara Qədimova — Küsüb Getdi (Rəsmi Audio)**](https://www.youtube.com/watch?v=jp_Hm3jrQV0)
+🎵 [**Fikret Kızılok - Gönül**](https://www.youtube.com/watch?v=wcuw_3DRlUs)
 
-<a href="https://www.youtube.com/watch?v=jp_Hm3jrQV0">
-  <img src="https://img.youtube.com/vi/jp_Hm3jrQV0/maxresdefault.jpg" width="320"/>
+<a href="https://www.youtube.com/watch?v=wcuw_3DRlUs">
+  <img src="https://img.youtube.com/vi/wcuw_3DRlUs/maxresdefault.jpg" width="320"/>
 </a>
 
 <!-- CHOSEN_TODAY:END -->
