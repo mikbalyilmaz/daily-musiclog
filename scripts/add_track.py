@@ -59,7 +59,6 @@ def main():
     else:
         df = pd.DataFrame(columns=["date","title","url","video_id"])
 
-    # AYNI GÜN EKLENENLERİ SİLMEZ, ALTINA YENİ SATIR OLARAK EKLER:
     new_row = pd.DataFrame([{"date": today, "title": title, "url": url, "video_id": video_id}])
     df = pd.concat([df, new_row], ignore_index=True)
     df.to_csv(csv_path, index=False)
@@ -85,6 +84,7 @@ def main():
         res = subprocess.run(["git", "diff", "--staged", "--quiet"])
         if res.returncode != 0:
             subprocess.run(["git", "commit", "-m", f"Add track: {title}"], check=True)
+            subprocess.run(["git", "pull", "--rebase"], check=True)
             subprocess.run(["git", "push"], check=True)
             print("✅ daily-musiclog başarıyla yüklendi!")
         else:
@@ -98,8 +98,8 @@ def main():
             print("🚀 Profil reposu güncelleniyor...")
             try:
                 subprocess.run(["git", "-C", str(PROFILE_REPO), "add", "."], check=True)
-                subprocess.run(["git", "-C", str(PROFILE_REPO), "pull", "--rebase"], check=True)
                 subprocess.run(["git", "-C", str(PROFILE_REPO), "commit", "-m", f"Update daily track: {title}"], check=True)
+                subprocess.run(["git", "-C", str(PROFILE_REPO), "pull", "--rebase"], check=True)
                 subprocess.run(["git", "-C", str(PROFILE_REPO), "push"], check=True)
                 print("✅ Profil sayfası başarıyla güncellendi!")
             except Exception as e:
