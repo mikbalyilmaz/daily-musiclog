@@ -5,9 +5,8 @@ from googleapiclient.discovery import build
 API_KEY = "AIzaSyDsD2Gaf-uVZv_aGPzGlnQlwvYywr1TwyM"
 
 def extract_video_id(url: str):
-    # Terminalden gelen kaçış karakterlerini (\) temizle
+    # Terminalden yapıştırılan ters slash (\) işaretlerini temizler
     url = url.replace("\\", "")
-    
     u = urlparse(url)
     if "youtu.be" in u.netloc:
         return u.path.strip("/")
