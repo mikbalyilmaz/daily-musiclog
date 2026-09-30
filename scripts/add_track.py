@@ -96,6 +96,7 @@ def main():
         try:
             subprocess.run(["git", "-C", str(PROFILE_REPO), "add", "."], check=True)
             subprocess.run(["git", "-C", str(PROFILE_REPO), "commit", "-m", f"Update daily track: {title}"], check=True)
+            subprocess.run(["git", "-C", str(PROFILE_REPO), "pull", "--rebase"], check=True)
             subprocess.run(["git", "-C", str(PROFILE_REPO), "push"], check=True)
             print("✅ GitHub profil sayfan da başarıyla güncellendi!")
         except Exception as e:
