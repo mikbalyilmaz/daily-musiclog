@@ -57,3 +57,4 @@
 - **2026-09-30** — [Sara Qədimova — Küsüb Getdi (Rəsmi Audio)](https://www.youtube.com/watch?v=jp_Hm3jrQV0)
 - **2026-09-30** — [Fikret Kızılok - Gönül](https://www.youtube.com/watch?v=wcuw_3DRlUs)
 - **2026-09-30** — [Michael Jackson - Don't Stop 'Til You Get Enough (Official Video - Upscaled)](https://www.youtube.com/watch\?v\=yURRmWtbTbo\&list\=RDyURRmWtbTbo\&start_radio\=1)
+- **2026-10-06** — [Debussy: Clair de lune | Menahem Pressler, piano](https://www.youtube.com/watch\?v\=-Bxpm0EmOMU\&list\=RD-Bxpm0EmOMU\&start_radio\=1)
