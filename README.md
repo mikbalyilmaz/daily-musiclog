@@ -27,10 +27,10 @@ As the timeline $n$ increases:
 
 <!-- CHOSEN_TODAY:START -->
 
-🎵 [**Debussy: Clair de lune | Menahem Pressler, piano**](https://www.youtube.com/watch\?v\=-Bxpm0EmOMU\&list\=RD-Bxpm0EmOMU\&start_radio\=1)
+🎵 [**Fikret Kızılok - Gönül**](https://www.youtube.com/watch\?v\=wcuw_3DRlUs\&list\=RDwcuw_3DRlUs\&start_radio\=1)
 
-<a href="https://www.youtube.com/watch\?v\=-Bxpm0EmOMU\&list\=RD-Bxpm0EmOMU\&start_radio\=1">
-  <img src="https://img.youtube.com/vi/-Bxpm0EmOMU/maxresdefault.jpg" width="320"/>
+<a href="https://www.youtube.com/watch\?v\=wcuw_3DRlUs\&list\=RDwcuw_3DRlUs\&start_radio\=1">
+  <img src="https://img.youtube.com/vi/wcuw_3DRlUs/maxresdefault.jpg" width="320"/>
 </a>
 
 <!-- CHOSEN_TODAY:END -->
