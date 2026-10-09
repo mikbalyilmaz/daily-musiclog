@@ -59,3 +59,4 @@
 - **2026-09-30** — [Michael Jackson - Don't Stop 'Til You Get Enough (Official Video - Upscaled)](https://www.youtube.com/watch\?v\=yURRmWtbTbo\&list\=RDyURRmWtbTbo\&start_radio\=1)
 - **2026-10-06** — [Debussy: Clair de lune | Menahem Pressler, piano](https://www.youtube.com/watch\?v\=-Bxpm0EmOMU\&list\=RD-Bxpm0EmOMU\&start_radio\=1)
 - **2026-10-07** — [Fikret Kızılok - Gönül](https://www.youtube.com/watch\?v\=wcuw_3DRlUs\&list\=RDwcuw_3DRlUs\&start_radio\=1)
+- **2026-10-09** — [Ey But - I Nev-Eda Olmusum Muptela (Album Version)](https://www.youtube.com/watch\?v\=F9ey3ErMIKs\&list\=RDF9ey3ErMIKs\&start_radio\=1)
