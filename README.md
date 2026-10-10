@@ -27,10 +27,10 @@ As the timeline $n$ increases:
 
 <!-- CHOSEN_TODAY:START -->
 
-🎵 [**Ey But - I Nev-Eda Olmusum Muptela (Album Version)**](https://www.youtube.com/watch\?v\=F9ey3ErMIKs\&list\=RDF9ey3ErMIKs\&start_radio\=1)
+🎵 [**1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar**](https://www.youtube.com/watch\?v\=a-u-HmJqYIg\&list\=RDa-u-HmJqYIg\&start_radio\=1)
 
-<a href="https://www.youtube.com/watch\?v\=F9ey3ErMIKs\&list\=RDF9ey3ErMIKs\&start_radio\=1">
-  <img src="https://img.youtube.com/vi/F9ey3ErMIKs/maxresdefault.jpg" width="320"/>
+<a href="https://www.youtube.com/watch\?v\=a-u-HmJqYIg\&list\=RDa-u-HmJqYIg\&start_radio\=1">
+  <img src="https://img.youtube.com/vi/a-u-HmJqYIg/maxresdefault.jpg" width="320"/>
 </a>
 
 <!-- CHOSEN_TODAY:END -->
