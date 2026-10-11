@@ -1,65 +1,59 @@
-cat << 'EOF' > ~/Desktop/daily-musiclog/README.md
 # daily-musiclog
 
-A systematic and chronological archive of daily musical selections, tracking the evolution of auditory aesthetics over time.
+One piece of music a day, kept as a small dataset. Each entry is a YouTube video with its date, title and channel;
+the newest entry is shown below and on my [GitHub profile](https://github.com/mikbalyilmaz).
 
-## Mathematical Setup
-
-Let $D_1, \dots, D_n$ be a sequence of discrete days.
-For each day $D_i$, a singular musical piece $M_i$ is selected.
-The repository maintains a continuous mapping $f: D_i \rightarrow M_i$, recording the intersection of time and sound.
-
-## Data Structure
-
-The primary database `daily_tracks.csv` logs the following tuple for each temporal instance:
-* `date`: The temporal coordinate ($t$)
-* `title`: The nomenclature of the piece and composer
-* `url`: The spatial coordinate/routing
-* `video_id`: The unique digital identifier
-
-## What the repository renders
-
-As the timeline $n$ increases:
-* The `README.md` dynamically displays the current day's selection
-* The CSV file acts as a persistent historical ledger, expanding linearly
-
-## Current Selection
+## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-
-🎵 [**1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar**](https://www.youtube.com/watch\?v\=a-u-HmJqYIg\&list\=RDa-u-HmJqYIg\&start_radio\=1)
-
-<a href="https://www.youtube.com/watch\?v\=a-u-HmJqYIg\&list\=RDa-u-HmJqYIg\&start_radio\=1">
-  <img src="https://img.youtube.com/vi/a-u-HmJqYIg/maxresdefault.jpg" width="320"/>
+<a href="https://www.youtube.com/watch?v=a-u-HmJqYIg">
+  <img src="https://img.youtube.com/vi/a-u-HmJqYIg/hqdefault.jpg" width="320" alt="1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar">
 </a>
 
+**2026-10-10**: [1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar](https://www.youtube.com/watch?v=a-u-HmJqYIg)
 <!-- CHOSEN_TODAY:END -->
 
-## Aesthetic Scope
+<!-- STATS:START -->
+62 entries on 56 days between 2026-01-29 and 2026-10-10 (255 calendar days); 60 distinct videos.
+<!-- STATS:END -->
+Full list, newest first: [docs/archive.md](docs/archive.md).
 
-The curation spans across multiple musical ontologies.
+## The dataset
 
-Distributions included:
-* Contemporary Classical & Minimalism (Arvo Pärt, György Ligeti)
-* Avant-Garde (Krzysztof Penderecki, Olivier Messiaen)
-* Eastern Traditional & Maqam (Itrî, Bekir Sıtkı Sezgin)
-* World & Jazz (Anouar Brahem, Rabih Abou-Khalil)
+`data/daily_tracks.csv` is the only file edited by hand or by the script; everything else is generated from it.
 
-These allow comparative observation between:
-* tonal vs. atonal structures
-* traditional maqam vs. western temperament
-* rhythmic complexity vs. ambient stasis
+| Column | Content |
+|---|---|
+| `date` | Day of the entry, `YYYY-MM-DD`. A day can have more than one entry. |
+| `video_id` | YouTube video id (11 characters) |
+| `title` | Title of the video on YouTube, unless a different one was given |
+| `channel` | Name of the YouTube channel; empty for entries whose channel has not been fetched yet |
+| `url` | `https://www.youtube.com/watch?v=<video_id>` |
 
-## Update Mechanics
+`data/daily_tracks.jsonl` holds the same rows as JSON lines. The selections range from Turkish makam music
+(Dede Efendi, Bekir Sıtkı Sezgin, Niyazi Sayın) to twentieth-century and contemporary composers (Penderecki,
+Messiaen, Ligeti, Górecki, Pärt), jazz and world music (Anouar Brahem, Rabih Abou-Khalil, Dhafer Youssef) and
+popular songs.
 
-To keep the log stable:
-* The `CHOSEN_TODAY` tags in this file act as fixed anchors for programmatic or manual updates
-* Historical continuity is preserved strictly within the CSV format
-* External dependencies are minimized to ensure long-term archival integrity
+## Adding a track
 
-## Requirements
-
-Python $\ge$ 3.9
+From the repository root (Python 3.9 or newer; no packages to install):
 
 ```bash
-pip install -r requirements.txt
+python3 scripts/musiclog.py add "https://www.youtube.com/watch?v=..."
+```
+
+The script takes the video id from the link (any YouTube link form works, also one pasted with backslashes),
+fetches the title and channel from YouTube's public oEmbed endpoint (no API key), appends the row, rebuilds the
+generated files, updates the music block of the profile README if that repository is in `~/Desktop/mikbalyilmaz`,
+and commits and pushes both repositories.
+
+| Option | Effect |
+|---|---|
+| `--date 2026-10-11` | Entry for another day |
+| `--title "..."` | Use this title instead of the YouTube title |
+| `--no-push` | Write the files, do not commit or push |
+
+Other commands: `render` rebuilds the generated files from the CSV, `check` validates the dataset (date format and
+order, video ids, links, duplicates), `backfill` fetches missing channel names. The `check` also runs on GitHub
+Actions at every push.
