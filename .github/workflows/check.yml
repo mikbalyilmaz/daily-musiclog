@@ -1,0 +1,16 @@
+   name: check
+
+   on:
+     push:
+     pull_request:
+
+   jobs:
+     check:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: actions/checkout@v7
+         - uses: actions/setup-python@v7
+           with:
+             python-version: "3.12"
+         - run: python scripts/musiclog.py check
+         - run: python -m unittest discover tests
