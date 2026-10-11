@@ -10,7 +10,7 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
   <img src="https://img.youtube.com/vi/a-u-HmJqYIg/hqdefault.jpg" width="320" alt="1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar">
 </a>
 
-**2026-10-10**: [1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar](https://www.youtube.com/watch?v=a-u-HmJqYIg)
+**2026-10-10**: [1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar](https://www.youtube.com/watch?v=a-u-HmJqYIg) · İstanbul Mûsıkîsi
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
