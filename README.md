@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=a-u-HmJqYIg">
-  <img src="https://img.youtube.com/vi/a-u-HmJqYIg/hqdefault.jpg" width="320" alt="1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar">
+<a href="https://www.youtube.com/watch?v=nF7yuNg_zWE">
+  <img src="https://img.youtube.com/vi/nF7yuNg_zWE/hqdefault.jpg" width="320" alt="Sade - King Of Sorrow - Official - 2001">
 </a>
 
-**2026-10-10**: [1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar](https://www.youtube.com/watch?v=a-u-HmJqYIg) · İstanbul Mûsıkîsi
+**2026-10-11**: [Sade - King Of Sorrow - Official - 2001](https://www.youtube.com/watch?v=nF7yuNg_zWE) · SadeVEVO
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-62 entries on 56 days between 2026-01-29 and 2026-10-10 (255 calendar days); 60 distinct videos.
+63 entries on 57 days between 2026-01-29 and 2026-10-11 (256 calendar days); 61 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
