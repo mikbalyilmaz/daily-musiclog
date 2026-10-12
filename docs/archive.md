@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-10-12**: [ABC](https://www.youtube.com/watch?v=niXNQ5dEcEA) · Jackson 5 - Topic
 - **2026-10-11**: [Sade - King Of Sorrow - Official - 2001](https://www.youtube.com/watch?v=nF7yuNg_zWE) · SadeVEVO
 - **2026-10-10**: [1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar](https://www.youtube.com/watch?v=a-u-HmJqYIg) · İstanbul Mûsıkîsi
 - **2026-10-09**: [Ey But - I Nev-Eda Olmusum Muptela (Album Version)](https://www.youtube.com/watch?v=F9ey3ErMIKs) · Dede Efendi - Topic

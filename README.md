@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=nF7yuNg_zWE">
-  <img src="https://img.youtube.com/vi/nF7yuNg_zWE/hqdefault.jpg" width="320" alt="Sade - King Of Sorrow - Official - 2001">
+<a href="https://www.youtube.com/watch?v=niXNQ5dEcEA">
+  <img src="https://img.youtube.com/vi/niXNQ5dEcEA/hqdefault.jpg" width="320" alt="ABC">
 </a>
 
-**2026-10-11**: [Sade - King Of Sorrow - Official - 2001](https://www.youtube.com/watch?v=nF7yuNg_zWE) · SadeVEVO
+**2026-10-12**: [ABC](https://www.youtube.com/watch?v=niXNQ5dEcEA) · Jackson 5 - Topic
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-63 entries on 57 days between 2026-01-29 and 2026-10-11 (256 calendar days); 61 distinct videos.
+64 entries on 58 days between 2026-01-29 and 2026-10-12 (257 calendar days); 62 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
