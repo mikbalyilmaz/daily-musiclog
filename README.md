@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=niXNQ5dEcEA">
-  <img src="https://img.youtube.com/vi/niXNQ5dEcEA/hqdefault.jpg" width="320" alt="ABC">
+<a href="https://www.youtube.com/watch?v=ak6tttHk_R8">
+  <img src="https://img.youtube.com/vi/ak6tttHk_R8/hqdefault.jpg" width="320" alt="The Five Satins - In The Still Of The Night (1956) 4K">
 </a>
 
-**2026-10-12**: [ABC](https://www.youtube.com/watch?v=niXNQ5dEcEA) · Jackson 5 - Topic
+**2026-10-14**: [The Five Satins - In The Still Of The Night (1956) 4K](https://www.youtube.com/watch?v=ak6tttHk_R8) · Classic Hits Studio
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-64 entries on 58 days between 2026-01-29 and 2026-10-12 (257 calendar days); 62 distinct videos.
+65 entries on 59 days between 2026-01-29 and 2026-10-14 (259 calendar days); 63 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
