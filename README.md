@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=ak6tttHk_R8">
-  <img src="https://img.youtube.com/vi/ak6tttHk_R8/hqdefault.jpg" width="320" alt="The Five Satins - In The Still Of The Night (1956) 4K">
+<a href="https://www.youtube.com/watch?v=S-Xm7s9eGxU">
+  <img src="https://img.youtube.com/vi/S-Xm7s9eGxU/hqdefault.jpg" width="320" alt="Erik Satie - Gymnopédie No.1">
 </a>
 
-**2026-10-14**: [The Five Satins - In The Still Of The Night (1956) 4K](https://www.youtube.com/watch?v=ak6tttHk_R8) · Classic Hits Studio
+**2026-10-14**: [Erik Satie - Gymnopédie No.1](https://www.youtube.com/watch?v=S-Xm7s9eGxU) · DistantMirrors
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-65 entries on 59 days between 2026-01-29 and 2026-10-14 (259 calendar days); 63 distinct videos.
+66 entries on 59 days between 2026-01-29 and 2026-10-14 (259 calendar days); 64 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 

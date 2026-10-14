@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-10-14**: [Erik Satie - Gymnopédie No.1](https://www.youtube.com/watch?v=S-Xm7s9eGxU) · DistantMirrors
 - **2026-10-14**: [The Five Satins - In The Still Of The Night (1956) 4K](https://www.youtube.com/watch?v=ak6tttHk_R8) · Classic Hits Studio
 - **2026-10-12**: [ABC](https://www.youtube.com/watch?v=niXNQ5dEcEA) · Jackson 5 - Topic
 - **2026-10-11**: [Sade - King Of Sorrow - Official - 2001](https://www.youtube.com/watch?v=nF7yuNg_zWE) · SadeVEVO
