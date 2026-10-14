@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=S-Xm7s9eGxU">
-  <img src="https://img.youtube.com/vi/S-Xm7s9eGxU/hqdefault.jpg" width="320" alt="Erik Satie - Gymnopédie No.1">
+<a href="https://www.youtube.com/watch?v=V5QukAC-jqE">
+  <img src="https://img.youtube.com/vi/V5QukAC-jqE/hqdefault.jpg" width="320" alt="Catch The Rainbow">
 </a>
 
-**2026-10-14**: [Erik Satie - Gymnopédie No.1](https://www.youtube.com/watch?v=S-Xm7s9eGxU) · DistantMirrors
+**2026-10-15**: [Catch The Rainbow](https://www.youtube.com/watch?v=V5QukAC-jqE) · Rainbow - Topic
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-66 entries on 59 days between 2026-01-29 and 2026-10-14 (259 calendar days); 64 distinct videos.
+67 entries on 60 days between 2026-01-29 and 2026-10-15 (260 calendar days); 65 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
