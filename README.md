@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=V5QukAC-jqE">
-  <img src="https://img.youtube.com/vi/V5QukAC-jqE/hqdefault.jpg" width="320" alt="Catch The Rainbow">
+<a href="https://www.youtube.com/watch?v=7v8zxoEoA_Q">
+  <img src="https://img.youtube.com/vi/7v8zxoEoA_Q/hqdefault.jpg" width="320" alt="Vivaldi : La Follia">
 </a>
 
-**2026-10-15**: [Catch The Rainbow](https://www.youtube.com/watch?v=V5QukAC-jqE) · Rainbow - Topic
+**2026-10-15**: [Vivaldi : La Follia](https://www.youtube.com/watch?v=7v8zxoEoA_Q) · Le Lutin d'Ecouves
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-67 entries on 60 days between 2026-01-29 and 2026-10-15 (260 calendar days); 65 distinct videos.
+68 entries on 60 days between 2026-01-29 and 2026-10-15 (260 calendar days); 66 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 

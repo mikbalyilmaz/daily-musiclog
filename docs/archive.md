@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-10-15**: [Vivaldi : La Follia](https://www.youtube.com/watch?v=7v8zxoEoA_Q) · Le Lutin d'Ecouves
 - **2026-10-15**: [Catch The Rainbow](https://www.youtube.com/watch?v=V5QukAC-jqE) · Rainbow - Topic
 - **2026-10-14**: [Erik Satie - Gymnopédie No.1](https://www.youtube.com/watch?v=S-Xm7s9eGxU) · DistantMirrors
 - **2026-10-14**: [The Five Satins - In The Still Of The Night (1956) 4K](https://www.youtube.com/watch?v=ak6tttHk_R8) · Classic Hits Studio
