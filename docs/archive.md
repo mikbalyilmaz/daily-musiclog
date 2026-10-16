@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-10-16**: [The Jubalaires - The Preacher And The Bear](https://www.youtube.com/watch?v=XNzKZ7lJRUc) · SbrPL
 - **2026-10-15**: [Vivaldi : La Follia](https://www.youtube.com/watch?v=7v8zxoEoA_Q) · Le Lutin d'Ecouves
 - **2026-10-15**: [Catch The Rainbow](https://www.youtube.com/watch?v=V5QukAC-jqE) · Rainbow - Topic
 - **2026-10-14**: [Erik Satie - Gymnopédie No.1](https://www.youtube.com/watch?v=S-Xm7s9eGxU) · DistantMirrors

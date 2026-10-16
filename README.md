@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=7v8zxoEoA_Q">
-  <img src="https://img.youtube.com/vi/7v8zxoEoA_Q/hqdefault.jpg" width="320" alt="Vivaldi : La Follia">
+<a href="https://www.youtube.com/watch?v=XNzKZ7lJRUc">
+  <img src="https://img.youtube.com/vi/XNzKZ7lJRUc/hqdefault.jpg" width="320" alt="The Jubalaires - The Preacher And The Bear">
 </a>
 
-**2026-10-15**: [Vivaldi : La Follia](https://www.youtube.com/watch?v=7v8zxoEoA_Q) · Le Lutin d'Ecouves
+**2026-10-16**: [The Jubalaires - The Preacher And The Bear](https://www.youtube.com/watch?v=XNzKZ7lJRUc) · SbrPL
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-68 entries on 60 days between 2026-01-29 and 2026-10-15 (260 calendar days); 66 distinct videos.
+69 entries on 61 days between 2026-01-29 and 2026-10-16 (261 calendar days); 67 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
