@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=XNzKZ7lJRUc">
-  <img src="https://img.youtube.com/vi/XNzKZ7lJRUc/hqdefault.jpg" width="320" alt="The Jubalaires - The Preacher And The Bear">
+<a href="https://www.youtube.com/watch?v=NldPFVKYmiw">
+  <img src="https://img.youtube.com/vi/NldPFVKYmiw/hqdefault.jpg" width="320" alt="Frank Sinatra - The Girl From Ipanema ft. Antonio Carlos Jobim | A Man And His Music (1967)">
 </a>
 
-**2026-10-16**: [The Jubalaires - The Preacher And The Bear](https://www.youtube.com/watch?v=XNzKZ7lJRUc) · SbrPL
+**2026-10-18**: [Frank Sinatra - The Girl From Ipanema ft. Antonio Carlos Jobim | A Man And His Music (1967)](https://www.youtube.com/watch?v=NldPFVKYmiw) · Frank Sinatra
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-69 entries on 61 days between 2026-01-29 and 2026-10-16 (261 calendar days); 67 distinct videos.
+70 entries on 62 days between 2026-01-29 and 2026-10-18 (263 calendar days); 68 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
