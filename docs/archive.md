@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-10-20**: [Frank Sinatra - Strangers In The Night (Audio)](https://www.youtube.com/watch?v=Sek1vLw3s20) · FrankSinatraVEVO
 - **2026-10-18**: [Frank Sinatra - The Girl From Ipanema ft. Antonio Carlos Jobim | A Man And His Music (1967)](https://www.youtube.com/watch?v=NldPFVKYmiw) · Frank Sinatra
 - **2026-10-16**: [The Jubalaires - The Preacher And The Bear](https://www.youtube.com/watch?v=XNzKZ7lJRUc) · SbrPL
 - **2026-10-15**: [Vivaldi : La Follia](https://www.youtube.com/watch?v=7v8zxoEoA_Q) · Le Lutin d'Ecouves
