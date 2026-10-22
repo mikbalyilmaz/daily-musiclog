@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=Sek1vLw3s20">
-  <img src="https://img.youtube.com/vi/Sek1vLw3s20/hqdefault.jpg" width="320" alt="Frank Sinatra - Strangers In The Night (Audio)">
+<a href="https://www.youtube.com/watch?v=MfTjz6emd7c">
+  <img src="https://img.youtube.com/vi/MfTjz6emd7c/hqdefault.jpg" width="320" alt="Giacinto Scelsi - Quattro Pezzi (w/ score) (for orchestra) (1959)">
 </a>
 
-**2026-10-20**: [Frank Sinatra - Strangers In The Night (Audio)](https://www.youtube.com/watch?v=Sek1vLw3s20) · FrankSinatraVEVO
+**2026-10-22**: [Giacinto Scelsi - Quattro Pezzi (w/ score) (for orchestra) (1959)](https://www.youtube.com/watch?v=MfTjz6emd7c) · belanna000
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-71 entries on 63 days between 2026-01-29 and 2026-10-20 (265 calendar days); 69 distinct videos.
+72 entries on 64 days between 2026-01-29 and 2026-10-22 (267 calendar days); 70 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
