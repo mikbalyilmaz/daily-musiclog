@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-10-22**: [Georgs Pelecis - Nevertheless - Gidon Kremer](https://www.youtube.com/watch?v=YGclSMTx7Eg) · Видео
 - **2026-10-22**: [Giacinto Scelsi - Quattro Pezzi (w/ score) (for orchestra) (1959)](https://www.youtube.com/watch?v=MfTjz6emd7c) · belanna000
 - **2026-10-20**: [Frank Sinatra - Strangers In The Night (Audio)](https://www.youtube.com/watch?v=Sek1vLw3s20) · FrankSinatraVEVO
 - **2026-10-18**: [Frank Sinatra - The Girl From Ipanema ft. Antonio Carlos Jobim | A Man And His Music (1967)](https://www.youtube.com/watch?v=NldPFVKYmiw) · Frank Sinatra

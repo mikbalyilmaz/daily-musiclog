@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=MfTjz6emd7c">
-  <img src="https://img.youtube.com/vi/MfTjz6emd7c/hqdefault.jpg" width="320" alt="Giacinto Scelsi - Quattro Pezzi (w/ score) (for orchestra) (1959)">
+<a href="https://www.youtube.com/watch?v=YGclSMTx7Eg">
+  <img src="https://img.youtube.com/vi/YGclSMTx7Eg/hqdefault.jpg" width="320" alt="Georgs Pelecis - Nevertheless - Gidon Kremer">
 </a>
 
-**2026-10-22**: [Giacinto Scelsi - Quattro Pezzi (w/ score) (for orchestra) (1959)](https://www.youtube.com/watch?v=MfTjz6emd7c) · belanna000
+**2026-10-22**: [Georgs Pelecis - Nevertheless - Gidon Kremer](https://www.youtube.com/watch?v=YGclSMTx7Eg) · Видео
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-72 entries on 64 days between 2026-01-29 and 2026-10-22 (267 calendar days); 70 distinct videos.
+73 entries on 64 days between 2026-01-29 and 2026-10-22 (267 calendar days); 71 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
