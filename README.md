@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=YGclSMTx7Eg">
-  <img src="https://img.youtube.com/vi/YGclSMTx7Eg/hqdefault.jpg" width="320" alt="Georgs Pelecis - Nevertheless - Gidon Kremer">
+<a href="https://www.youtube.com/watch?v=FhKJgqxNDD8">
+  <img src="https://img.youtube.com/vi/FhKJgqxNDD8/hqdefault.jpg" width="320" alt="King Crimson - Starless (Live in Japan, 2015)">
 </a>
 
-**2026-10-22**: [Georgs Pelecis - Nevertheless - Gidon Kremer](https://www.youtube.com/watch?v=YGclSMTx7Eg) · Видео
+**2026-10-23**: [King Crimson - Starless (Live in Japan, 2015)](https://www.youtube.com/watch?v=FhKJgqxNDD8) · King Crimson
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-73 entries on 64 days between 2026-01-29 and 2026-10-22 (267 calendar days); 71 distinct videos.
+74 entries on 65 days between 2026-01-29 and 2026-10-23 (268 calendar days); 72 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
