@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=FhKJgqxNDD8">
-  <img src="https://img.youtube.com/vi/FhKJgqxNDD8/hqdefault.jpg" width="320" alt="King Crimson - Starless (Live in Japan, 2015)">
+<a href="https://www.youtube.com/watch?v=F-k_Fr67bPQ">
+  <img src="https://img.youtube.com/vi/F-k_Fr67bPQ/hqdefault.jpg" width="320" alt="Erkin Koray - Cemalim (1974, High Quality)">
 </a>
 
-**2026-10-23**: [King Crimson - Starless (Live in Japan, 2015)](https://www.youtube.com/watch?v=FhKJgqxNDD8) · King Crimson
+**2026-10-24**: [Erkin Koray - Cemalim (1974, High Quality)](https://www.youtube.com/watch?v=F-k_Fr67bPQ) · Erkin Koray Official
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-74 entries on 65 days between 2026-01-29 and 2026-10-23 (268 calendar days); 72 distinct videos.
+75 entries on 66 days between 2026-01-29 and 2026-10-24 (269 calendar days); 73 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
