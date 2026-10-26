@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-10-26**: [The Jubalaires - Brother Bill](https://www.youtube.com/watch?v=HixdH1346l0) · SbrPL
 - **2026-10-24**: [Erkin Koray - Cemalim (1974, High Quality)](https://www.youtube.com/watch?v=F-k_Fr67bPQ) · Erkin Koray Official
 - **2026-10-23**: [King Crimson - Starless (Live in Japan, 2015)](https://www.youtube.com/watch?v=FhKJgqxNDD8) · King Crimson
 - **2026-10-22**: [Georgs Pelecis - Nevertheless - Gidon Kremer](https://www.youtube.com/watch?v=YGclSMTx7Eg) · Видео

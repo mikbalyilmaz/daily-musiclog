@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=F-k_Fr67bPQ">
-  <img src="https://img.youtube.com/vi/F-k_Fr67bPQ/hqdefault.jpg" width="320" alt="Erkin Koray - Cemalim (1974, High Quality)">
+<a href="https://www.youtube.com/watch?v=HixdH1346l0">
+  <img src="https://img.youtube.com/vi/HixdH1346l0/hqdefault.jpg" width="320" alt="The Jubalaires - Brother Bill">
 </a>
 
-**2026-10-24**: [Erkin Koray - Cemalim (1974, High Quality)](https://www.youtube.com/watch?v=F-k_Fr67bPQ) · Erkin Koray Official
+**2026-10-26**: [The Jubalaires - Brother Bill](https://www.youtube.com/watch?v=HixdH1346l0) · SbrPL
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-75 entries on 66 days between 2026-01-29 and 2026-10-24 (269 calendar days); 73 distinct videos.
+76 entries on 67 days between 2026-01-29 and 2026-10-26 (271 calendar days); 74 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
