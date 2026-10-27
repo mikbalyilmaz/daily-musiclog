@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=HixdH1346l0">
-  <img src="https://img.youtube.com/vi/HixdH1346l0/hqdefault.jpg" width="320" alt="The Jubalaires - Brother Bill">
+<a href="https://www.youtube.com/watch?v=31XSLHQa6Ro">
+  <img src="https://img.youtube.com/vi/31XSLHQa6Ro/hqdefault.jpg" width="320" alt="Manu Dibango, Courtney Pine - Aye Africa">
 </a>
 
-**2026-10-26**: [The Jubalaires - Brother Bill](https://www.youtube.com/watch?v=HixdH1346l0) · SbrPL
+**2026-10-27**: [Manu Dibango, Courtney Pine - Aye Africa](https://www.youtube.com/watch?v=31XSLHQa6Ro) · ramblingfox
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-76 entries on 67 days between 2026-01-29 and 2026-10-26 (271 calendar days); 74 distinct videos.
+77 entries on 68 days between 2026-01-29 and 2026-10-27 (272 calendar days); 75 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
