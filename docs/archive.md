@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-10-28**: [Elizabeth Cotten - In the Sweet By and By](https://www.youtube.com/watch?v=3pUdUX5Gagc) · Cornerstone Recordings
 - **2026-10-27**: [Manu Dibango, Courtney Pine - Aye Africa](https://www.youtube.com/watch?v=31XSLHQa6Ro) · ramblingfox
 - **2026-10-26**: [The Jubalaires - Brother Bill](https://www.youtube.com/watch?v=HixdH1346l0) · SbrPL
 - **2026-10-24**: [Erkin Koray - Cemalim (1974, High Quality)](https://www.youtube.com/watch?v=F-k_Fr67bPQ) · Erkin Koray Official

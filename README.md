@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=31XSLHQa6Ro">
-  <img src="https://img.youtube.com/vi/31XSLHQa6Ro/hqdefault.jpg" width="320" alt="Manu Dibango, Courtney Pine - Aye Africa">
+<a href="https://www.youtube.com/watch?v=3pUdUX5Gagc">
+  <img src="https://img.youtube.com/vi/3pUdUX5Gagc/hqdefault.jpg" width="320" alt="Elizabeth Cotten - In the Sweet By and By">
 </a>
 
-**2026-10-27**: [Manu Dibango, Courtney Pine - Aye Africa](https://www.youtube.com/watch?v=31XSLHQa6Ro) · ramblingfox
+**2026-10-28**: [Elizabeth Cotten - In the Sweet By and By](https://www.youtube.com/watch?v=3pUdUX5Gagc) · Cornerstone Recordings
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-77 entries on 68 days between 2026-01-29 and 2026-10-27 (272 calendar days); 75 distinct videos.
+78 entries on 69 days between 2026-01-29 and 2026-10-28 (273 calendar days); 76 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
