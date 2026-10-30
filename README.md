@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=3pUdUX5Gagc">
-  <img src="https://img.youtube.com/vi/3pUdUX5Gagc/hqdefault.jpg" width="320" alt="Elizabeth Cotten - In the Sweet By and By">
+<a href="https://www.youtube.com/watch?v=igxDZfYYU2A">
+  <img src="https://img.youtube.com/vi/igxDZfYYU2A/hqdefault.jpg" width="320" alt="VIVALDI | Violin Concerto RV 275 in E minor | Vienna manuscript">
 </a>
 
-**2026-10-28**: [Elizabeth Cotten - In the Sweet By and By](https://www.youtube.com/watch?v=3pUdUX5Gagc) · Cornerstone Recordings
+**2026-10-30**: [VIVALDI | Violin Concerto RV 275 in E minor | Vienna manuscript](https://www.youtube.com/watch?v=igxDZfYYU2A) · Del Vivaldi
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-78 entries on 69 days between 2026-01-29 and 2026-10-28 (273 calendar days); 76 distinct videos.
+79 entries on 70 days between 2026-01-29 and 2026-10-30 (275 calendar days); 77 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
