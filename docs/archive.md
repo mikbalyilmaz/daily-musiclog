@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-10-31**: [Max Romeo & Dennis Alcapone - Jordan River / King of Kings](https://www.youtube.com/watch?v=W_WtVswVl1c) · poachedeyes
 - **2026-10-30**: [VIVALDI | Violin Concerto RV 275 in E minor | Vienna manuscript](https://www.youtube.com/watch?v=igxDZfYYU2A) · Del Vivaldi
 - **2026-10-28**: [Elizabeth Cotten - In the Sweet By and By](https://www.youtube.com/watch?v=3pUdUX5Gagc) · Cornerstone Recordings
 - **2026-10-27**: [Manu Dibango, Courtney Pine - Aye Africa](https://www.youtube.com/watch?v=31XSLHQa6Ro) · ramblingfox

@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=igxDZfYYU2A">
-  <img src="https://img.youtube.com/vi/igxDZfYYU2A/hqdefault.jpg" width="320" alt="VIVALDI | Violin Concerto RV 275 in E minor | Vienna manuscript">
+<a href="https://www.youtube.com/watch?v=W_WtVswVl1c">
+  <img src="https://img.youtube.com/vi/W_WtVswVl1c/hqdefault.jpg" width="320" alt="Max Romeo & Dennis Alcapone - Jordan River / King of Kings">
 </a>
 
-**2026-10-30**: [VIVALDI | Violin Concerto RV 275 in E minor | Vienna manuscript](https://www.youtube.com/watch?v=igxDZfYYU2A) · Del Vivaldi
+**2026-10-31**: [Max Romeo & Dennis Alcapone - Jordan River / King of Kings](https://www.youtube.com/watch?v=W_WtVswVl1c) · poachedeyes
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-79 entries on 70 days between 2026-01-29 and 2026-10-30 (275 calendar days); 77 distinct videos.
+80 entries on 71 days between 2026-01-29 and 2026-10-31 (276 calendar days); 78 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
