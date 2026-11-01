@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=OmjAjK4Ma0I">
-  <img src="https://img.youtube.com/vi/OmjAjK4Ma0I/hqdefault.jpg" width="320" alt="suleyman kus dilin bilir dediler suleyman var suleymandan iceru">
+<a href="https://www.youtube.com/watch?v=x3xYXGMRRYk">
+  <img src="https://img.youtube.com/vi/x3xYXGMRRYk/hqdefault.jpg" width="320" alt="Paolo Nutini - Candy (Official Video)">
 </a>
 
-**2026-11-01**: [suleyman kus dilin bilir dediler suleyman var suleymandan iceru](https://www.youtube.com/watch?v=OmjAjK4Ma0I) · İlahi
+**2026-11-01**: [Paolo Nutini - Candy (Official Video)](https://www.youtube.com/watch?v=x3xYXGMRRYk) · Paolo Nutini
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-82 entries on 72 days between 2026-01-29 and 2026-11-01 (277 calendar days); 80 distinct videos.
+83 entries on 72 days between 2026-01-29 and 2026-11-01 (277 calendar days); 81 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
