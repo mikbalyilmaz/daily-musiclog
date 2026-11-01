@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-11-01**: [suleyman kus dilin bilir dediler suleyman var suleymandan iceru](https://www.youtube.com/watch?v=OmjAjK4Ma0I) · İlahi
 - **2026-11-01**: [The Jubalaires – Noah 1946 | Restored, Colorized & Enhanced in HD](https://www.youtube.com/watch?v=62_bnGOIz6k) · OLD TAPES
 - **2026-10-31**: [Max Romeo & Dennis Alcapone - Jordan River / King of Kings](https://www.youtube.com/watch?v=W_WtVswVl1c) · poachedeyes
 - **2026-10-30**: [VIVALDI | Violin Concerto RV 275 in E minor | Vienna manuscript](https://www.youtube.com/watch?v=igxDZfYYU2A) · Del Vivaldi

@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=62_bnGOIz6k">
-  <img src="https://img.youtube.com/vi/62_bnGOIz6k/hqdefault.jpg" width="320" alt="The Jubalaires – Noah 1946 | Restored, Colorized & Enhanced in HD">
+<a href="https://www.youtube.com/watch?v=OmjAjK4Ma0I">
+  <img src="https://img.youtube.com/vi/OmjAjK4Ma0I/hqdefault.jpg" width="320" alt="suleyman kus dilin bilir dediler suleyman var suleymandan iceru">
 </a>
 
-**2026-11-01**: [The Jubalaires – Noah 1946 | Restored, Colorized & Enhanced in HD](https://www.youtube.com/watch?v=62_bnGOIz6k) · OLD TAPES
+**2026-11-01**: [suleyman kus dilin bilir dediler suleyman var suleymandan iceru](https://www.youtube.com/watch?v=OmjAjK4Ma0I) · İlahi
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-81 entries on 72 days between 2026-01-29 and 2026-11-01 (277 calendar days); 79 distinct videos.
+82 entries on 72 days between 2026-01-29 and 2026-11-01 (277 calendar days); 80 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
