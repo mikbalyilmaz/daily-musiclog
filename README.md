@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=W_WtVswVl1c">
-  <img src="https://img.youtube.com/vi/W_WtVswVl1c/hqdefault.jpg" width="320" alt="Max Romeo & Dennis Alcapone - Jordan River / King of Kings">
+<a href="https://www.youtube.com/watch?v=62_bnGOIz6k">
+  <img src="https://img.youtube.com/vi/62_bnGOIz6k/hqdefault.jpg" width="320" alt="The Jubalaires – Noah 1946 | Restored, Colorized & Enhanced in HD">
 </a>
 
-**2026-10-31**: [Max Romeo & Dennis Alcapone - Jordan River / King of Kings](https://www.youtube.com/watch?v=W_WtVswVl1c) · poachedeyes
+**2026-11-01**: [The Jubalaires – Noah 1946 | Restored, Colorized & Enhanced in HD](https://www.youtube.com/watch?v=62_bnGOIz6k) · OLD TAPES
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-80 entries on 71 days between 2026-01-29 and 2026-10-31 (276 calendar days); 78 distinct videos.
+81 entries on 72 days between 2026-01-29 and 2026-11-01 (277 calendar days); 79 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
