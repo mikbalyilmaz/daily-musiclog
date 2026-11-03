@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-11-03**: [Otis Redding - (Sittin' On) The Dock Of The Bay (Official Music Video)](https://www.youtube.com/watch?v=rTVjnBo96Ug) · RHINO
 - **2026-11-02**: [VIVALDI | Violin Sonata RV 12 in D minor | Manchester manuscript](https://www.youtube.com/watch?v=AQ1sfP80Z9c) · Del Vivaldi
 - **2026-11-01**: [Paolo Nutini - Candy (Official Video)](https://www.youtube.com/watch?v=x3xYXGMRRYk) · Paolo Nutini
 - **2026-11-01**: [suleyman kus dilin bilir dediler suleyman var suleymandan iceru](https://www.youtube.com/watch?v=OmjAjK4Ma0I) · İlahi

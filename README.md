@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=AQ1sfP80Z9c">
-  <img src="https://img.youtube.com/vi/AQ1sfP80Z9c/hqdefault.jpg" width="320" alt="VIVALDI | Violin Sonata RV 12 in D minor | Manchester manuscript">
+<a href="https://www.youtube.com/watch?v=rTVjnBo96Ug">
+  <img src="https://img.youtube.com/vi/rTVjnBo96Ug/hqdefault.jpg" width="320" alt="Otis Redding - (Sittin' On) The Dock Of The Bay (Official Music Video)">
 </a>
 
-**2026-11-02**: [VIVALDI | Violin Sonata RV 12 in D minor | Manchester manuscript](https://www.youtube.com/watch?v=AQ1sfP80Z9c) · Del Vivaldi
+**2026-11-03**: [Otis Redding - (Sittin' On) The Dock Of The Bay (Official Music Video)](https://www.youtube.com/watch?v=rTVjnBo96Ug) · RHINO
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-84 entries on 73 days between 2026-01-29 and 2026-11-02 (278 calendar days); 82 distinct videos.
+85 entries on 74 days between 2026-01-29 and 2026-11-03 (279 calendar days); 83 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
