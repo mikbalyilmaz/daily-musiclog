@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=rTVjnBo96Ug">
-  <img src="https://img.youtube.com/vi/rTVjnBo96Ug/hqdefault.jpg" width="320" alt="Otis Redding - (Sittin' On) The Dock Of The Bay (Official Music Video)">
+<a href="https://www.youtube.com/watch?v=OnFlx2Lnr9Q">
+  <img src="https://img.youtube.com/vi/OnFlx2Lnr9Q/hqdefault.jpg" width="320" alt="Dean Martin - That's Amore">
 </a>
 
-**2026-11-03**: [Otis Redding - (Sittin' On) The Dock Of The Bay (Official Music Video)](https://www.youtube.com/watch?v=rTVjnBo96Ug) · RHINO
+**2026-11-04**: [Dean Martin - That's Amore](https://www.youtube.com/watch?v=OnFlx2Lnr9Q) · NM Catalogue
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-85 entries on 74 days between 2026-01-29 and 2026-11-03 (279 calendar days); 83 distinct videos.
+86 entries on 75 days between 2026-01-29 and 2026-11-04 (280 calendar days); 84 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
