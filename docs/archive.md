@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-11-05**: [Otis Redding - Try A Little Tenderness](https://www.youtube.com/watch?v=UnPMoAb4y8U) · Negro Paris
 - **2026-11-04**: [Dean Martin - That's Amore](https://www.youtube.com/watch?v=OnFlx2Lnr9Q) · NM Catalogue
 - **2026-11-03**: [Otis Redding - (Sittin' On) The Dock Of The Bay (Official Music Video)](https://www.youtube.com/watch?v=rTVjnBo96Ug) · RHINO
 - **2026-11-02**: [VIVALDI | Violin Sonata RV 12 in D minor | Manchester manuscript](https://www.youtube.com/watch?v=AQ1sfP80Z9c) · Del Vivaldi

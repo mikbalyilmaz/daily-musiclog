@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=OnFlx2Lnr9Q">
-  <img src="https://img.youtube.com/vi/OnFlx2Lnr9Q/hqdefault.jpg" width="320" alt="Dean Martin - That's Amore">
+<a href="https://www.youtube.com/watch?v=UnPMoAb4y8U">
+  <img src="https://img.youtube.com/vi/UnPMoAb4y8U/hqdefault.jpg" width="320" alt="Otis Redding - Try A Little Tenderness">
 </a>
 
-**2026-11-04**: [Dean Martin - That's Amore](https://www.youtube.com/watch?v=OnFlx2Lnr9Q) · NM Catalogue
+**2026-11-05**: [Otis Redding - Try A Little Tenderness](https://www.youtube.com/watch?v=UnPMoAb4y8U) · Negro Paris
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-86 entries on 75 days between 2026-01-29 and 2026-11-04 (280 calendar days); 84 distinct videos.
+87 entries on 76 days between 2026-01-29 and 2026-11-05 (281 calendar days); 85 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
