@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=UnPMoAb4y8U">
-  <img src="https://img.youtube.com/vi/UnPMoAb4y8U/hqdefault.jpg" width="320" alt="Otis Redding - Try A Little Tenderness">
+<a href="https://www.youtube.com/watch?v=RPv92ABFNP4">
+  <img src="https://img.youtube.com/vi/RPv92ABFNP4/hqdefault.jpg" width="320" alt="Rock Me Baby - Beverly &quot;Guitar&quot; Watkins w/the Rick Fowler Band, Foundry, Athens, Ga., 03/10/17">
 </a>
 
-**2026-11-05**: [Otis Redding - Try A Little Tenderness](https://www.youtube.com/watch?v=UnPMoAb4y8U) · Negro Paris
+**2026-11-06**: [Rock Me Baby - Beverly "Guitar" Watkins w/the Rick Fowler Band, Foundry, Athens, Ga., 03/10/17](https://www.youtube.com/watch?v=RPv92ABFNP4) · rottingtapes
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-87 entries on 76 days between 2026-01-29 and 2026-11-05 (281 calendar days); 85 distinct videos.
+88 entries on 77 days between 2026-01-29 and 2026-11-06 (282 calendar days); 86 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
