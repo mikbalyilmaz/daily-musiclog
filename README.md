@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=RPv92ABFNP4">
-  <img src="https://img.youtube.com/vi/RPv92ABFNP4/hqdefault.jpg" width="320" alt="Rock Me Baby - Beverly &quot;Guitar&quot; Watkins w/the Rick Fowler Band, Foundry, Athens, Ga., 03/10/17">
+<a href="https://www.youtube.com/watch?v=09839DpTctU">
+  <img src="https://img.youtube.com/vi/09839DpTctU/hqdefault.jpg" width="320" alt="Eagles - Hotel California (Live 1977) (Official Video) [HD]">
 </a>
 
-**2026-11-06**: [Rock Me Baby - Beverly "Guitar" Watkins w/the Rick Fowler Band, Foundry, Athens, Ga., 03/10/17](https://www.youtube.com/watch?v=RPv92ABFNP4) · rottingtapes
+**2026-11-07**: [Eagles - Hotel California (Live 1977) (Official Video) \[HD\]](https://www.youtube.com/watch?v=09839DpTctU) · Eagles
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-88 entries on 77 days between 2026-01-29 and 2026-11-06 (282 calendar days); 86 distinct videos.
+89 entries on 78 days between 2026-01-29 and 2026-11-07 (283 calendar days); 87 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 

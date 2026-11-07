@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-11-07**: [Eagles - Hotel California (Live 1977) (Official Video) \[HD\]](https://www.youtube.com/watch?v=09839DpTctU) · Eagles
 - **2026-11-06**: [Rock Me Baby - Beverly "Guitar" Watkins w/the Rick Fowler Band, Foundry, Athens, Ga., 03/10/17](https://www.youtube.com/watch?v=RPv92ABFNP4) · rottingtapes
 - **2026-11-05**: [Otis Redding - Try A Little Tenderness](https://www.youtube.com/watch?v=UnPMoAb4y8U) · Negro Paris
 - **2026-11-04**: [Dean Martin - That's Amore](https://www.youtube.com/watch?v=OnFlx2Lnr9Q) · NM Catalogue
