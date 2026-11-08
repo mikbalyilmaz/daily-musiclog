@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=w2jYjUiulMQ">
-  <img src="https://img.youtube.com/vi/w2jYjUiulMQ/hqdefault.jpg" width="320" alt="Manu Dibango - Soul Makossa">
+<a href="https://www.youtube.com/watch?v=5Ksp63RJuaU">
+  <img src="https://img.youtube.com/vi/5Ksp63RJuaU/hqdefault.jpg" width="320" alt="L'Impératrice ♙ PARFUM THÉRÉMINE">
 </a>
 
-**2026-11-08**: [Manu Dibango - Soul Makossa](https://www.youtube.com/watch?v=w2jYjUiulMQ) · M-YAMI
+**2026-11-09**: [L'Impératrice ♙ PARFUM THÉRÉMINE](https://www.youtube.com/watch?v=5Ksp63RJuaU) · L'Impératrice
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-90 entries on 79 days between 2026-01-29 and 2026-11-08 (284 calendar days); 88 distinct videos.
+91 entries on 80 days between 2026-01-29 and 2026-11-09 (285 calendar days); 89 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 

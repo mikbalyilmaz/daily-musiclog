@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-11-09**: [L'Impératrice ♙ PARFUM THÉRÉMINE](https://www.youtube.com/watch?v=5Ksp63RJuaU) · L'Impératrice
 - **2026-11-08**: [Manu Dibango - Soul Makossa](https://www.youtube.com/watch?v=w2jYjUiulMQ) · M-YAMI
 - **2026-11-07**: [Eagles - Hotel California (Live 1977) (Official Video) \[HD\]](https://www.youtube.com/watch?v=09839DpTctU) · Eagles
 - **2026-11-06**: [Rock Me Baby - Beverly "Guitar" Watkins w/the Rick Fowler Band, Foundry, Athens, Ga., 03/10/17](https://www.youtube.com/watch?v=RPv92ABFNP4) · rottingtapes
