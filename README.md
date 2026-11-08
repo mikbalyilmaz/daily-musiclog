@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=09839DpTctU">
-  <img src="https://img.youtube.com/vi/09839DpTctU/hqdefault.jpg" width="320" alt="Eagles - Hotel California (Live 1977) (Official Video) [HD]">
+<a href="https://www.youtube.com/watch?v=w2jYjUiulMQ">
+  <img src="https://img.youtube.com/vi/w2jYjUiulMQ/hqdefault.jpg" width="320" alt="Manu Dibango - Soul Makossa">
 </a>
 
-**2026-11-07**: [Eagles - Hotel California (Live 1977) (Official Video) \[HD\]](https://www.youtube.com/watch?v=09839DpTctU) · Eagles
+**2026-11-08**: [Manu Dibango - Soul Makossa](https://www.youtube.com/watch?v=w2jYjUiulMQ) · M-YAMI
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-89 entries on 78 days between 2026-01-29 and 2026-11-07 (283 calendar days); 87 distinct videos.
+90 entries on 79 days between 2026-01-29 and 2026-11-08 (284 calendar days); 88 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
