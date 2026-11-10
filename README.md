@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=5Ksp63RJuaU">
-  <img src="https://img.youtube.com/vi/5Ksp63RJuaU/hqdefault.jpg" width="320" alt="L'Impératrice ♙ PARFUM THÉRÉMINE">
+<a href="https://www.youtube.com/watch?v=MAxdTSc_fts">
+  <img src="https://img.youtube.com/vi/MAxdTSc_fts/hqdefault.jpg" width="320" alt="Like It Is - Yusef Lateef (The Blue Yusef Lateef).wmv">
 </a>
 
-**2026-11-09**: [L'Impératrice ♙ PARFUM THÉRÉMINE](https://www.youtube.com/watch?v=5Ksp63RJuaU) · L'Impératrice
+**2026-11-10**: [Like It Is - Yusef Lateef (The Blue Yusef Lateef).wmv](https://www.youtube.com/watch?v=MAxdTSc_fts) · MrJoatman
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-91 entries on 80 days between 2026-01-29 and 2026-11-09 (285 calendar days); 89 distinct videos.
+92 entries on 81 days between 2026-01-29 and 2026-11-10 (286 calendar days); 90 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
