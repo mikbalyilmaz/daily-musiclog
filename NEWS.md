@@ -1,5 +1,20 @@
 # Changes
 
+## 2026-11-11
+
+The daily command is unchanged: `python3 scripts/musiclog.py add "<link>"`.
+
+- New columns `artist` and `work`; columns are now `date, video_id, title, artist, work, channel, url`. The 93
+  existing entries were filled in by hand from their titles (7 name no artist). For new entries the script reads
+  them from the title and prints its reading; new command `set` corrects an entry, new options `--artist`, `--work`.
+- New generated files: `docs/stats.md` (entries by month, longest run of consecutive days, artists, channels, videos
+  entered more than once) and `docs/calendar.svg` (entries per day), shown in the README.
+- New command `links`: asks YouTube's oEmbed endpoint about every video and fails if one is not found. It runs weekly
+  on GitHub Actions. Written against the documented HTTP status codes and tested offline; not yet run against YouTube.
+- Entering a video that is already listed on another day prints a note. On the same day it is still refused.
+- Added `LICENSE` (MIT) and `CITATION.cff`. Removed the empty `notebooks/` folder.
+- Tests: 12 (6 before).
+
 ## 2026-10-11
 
 - One script, `scripts/musiclog.py`, replaces `add_track.py`, `update_readme.py` and `utils.py`. It uses only the

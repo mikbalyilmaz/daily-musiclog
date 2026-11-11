@@ -34,7 +34,8 @@ class Dataset(unittest.TestCase):
             "<!-- STATS:START -->\n<!-- STATS:END -->\ny\n", encoding="utf-8")
         self.patches = [mock.patch.object(m, name, self.tmp / rel) for name, rel in (
             ("CSV_PATH", "data/daily_tracks.csv"), ("JSONL_PATH", "data/daily_tracks.jsonl"),
-            ("ARCHIVE_PATH", "docs/archive.md"), ("README_PATH", "README.md"), ("ROOT", "."),
+            ("ARCHIVE_PATH", "docs/archive.md"), ("STATS_PATH", "docs/stats.md"), ("CALENDAR_PATH", "docs/calendar.svg"),
+            ("README_PATH", "README.md"), ("ROOT", "."),
             ("PROFILE_REPO", "profile"))]
         for p in self.patches:
             p.start()
@@ -76,8 +77,70 @@ class Dataset(unittest.TestCase):
         self.assertTrue(text.startswith("a\n") and text.endswith("b\n"))
 
     def test_problems_are_found(self):
-        rows = [{"date": "2026-13-01", "video_id": "bad", "title": "", "channel": "", "url": "x"}]
+        rows = [{"date": "2026-13-01", "video_id": "bad", "title": "", "artist": "", "work": "", "channel": "", "url": "x"}]
         self.assertGreaterEqual(len(m.problems(rows)), 3)
+
+    def test_artist_and_work(self):
+        self.add(f"https://youtu.be/{ID}", "2026-10-11", "Otis Redding - Try A Little Tenderness (Official Video) [HD]")
+        row = m.read_rows(m.CSV_PATH)[-1]
+        self.assertEqual((row["artist"], row["work"]), ("Otis Redding", "Try A Little Tenderness"))
+        m.main(["set", "2026-10-11", "--artist", "O. Redding", "--no-push"])
+        row = m.read_rows(m.CSV_PATH)[-1]
+        self.assertEqual((row["artist"], row["work"]), ("O. Redding", "Try A Little Tenderness"))
+        with self.assertRaises(SystemExit):
+            m.main(["set", "2026-10-12", "--artist", "x", "--no-push"])      # no entry on that day
+
+    def test_same_video_on_another_day_is_allowed(self):
+        self.add(f"https://youtu.be/{ID}", "2026-10-11")
+        self.add(f"https://youtu.be/{ID}", "2026-10-12")
+        self.assertEqual(len(m.read_rows(m.CSV_PATH)), 2)
+
+    def test_old_file_without_the_new_columns(self):
+        m.CSV_PATH.parent.mkdir(parents=True)
+        m.CSV_PATH.write_text("date,video_id,title,channel,url\n"
+                              f"2026-10-11,{ID},T,C,https://www.youtube.com/watch?v={ID}\n", encoding="utf-8")
+        rows = m.read_rows(m.CSV_PATH)
+        self.assertEqual((rows[0]["artist"], rows[0]["work"]), ("", ""))
+        self.assertEqual(m.problems(rows), [])
+
+    def test_statistics_and_calendar(self):
+        for day in ("2026-10-10", "2026-10-11", "2026-10-12", "2026-10-20"):
+            self.add("https://youtu.be/" + ID[:-2] + day[-2:], day, "A - B")
+        rows = m.read_rows(m.CSV_PATH)
+        self.assertEqual(m.longest_run({r["date"] for r in rows})[0], 3)
+        text = m.STATS_PATH.read_text(encoding="utf-8")
+        self.assertIn("Days without an entry: 7 of 11.", text)
+        self.assertIn("| A | 4 |", text)
+        svg = m.CALENDAR_PATH.read_text(encoding="utf-8")
+        self.assertEqual(svg.count("<rect"), 11 + 4)       # one cell per day of the span and four of the legend
+        self.assertEqual(m.render(rows), [])
+
+
+class Titles(unittest.TestCase):
+    def test_split(self):
+        for title, channel, want in (
+                ("Moondog - Bird's Lament", "x", ("Moondog", "Bird's Lament")),
+                ("Eleni Karaindrou – The Weeping Meadow", "x", ("Eleni Karaindrou", "The Weeping Meadow")),
+                ("Penderecki: Threnody for the Victims of Hiroshima", "x", ("Penderecki", "Threnody for the Victims of Hiroshima")),
+                ("MFÖ - Sakın Gelme (Official Video)", "", ("MFÖ", "Sakın Gelme")),
+                ("Gymnopédie No. 1", "Erik Satie - Topic", ("Erik Satie", "Gymnopédie No. 1")),
+                ("The Godfather Suite", "Hunter McCarville", ("", "The Godfather Suite")),
+                ("Eagles - Hotel California (Live 1977) (Official Video) [HD]", "Eagles", ("Eagles", "Hotel California (Live 1977)"))):
+            self.assertEqual(m.split_title(title, channel), want, title)
+
+
+class LinkCheck(unittest.TestCase):
+    def test_status(self):
+        import urllib.error
+        def fail(code):
+            return mock.patch.object(m, "fetch_metadata", side_effect=urllib.error.HTTPError("u", code, "x", None, None))
+        with mock.patch.object(m, "fetch_metadata", return_value=("T", "C")):
+            self.assertEqual(m.link_status(ID), "ok")
+        for code, want in ((404, "not found"), (401, "refused"), (403, "refused"), (500, "unknown")):
+            with fail(code):
+                self.assertEqual(m.link_status(ID), want)
+        with mock.patch.object(m, "fetch_metadata", side_effect=OSError("no network")):
+            self.assertEqual(m.link_status(ID), "unknown")
 
 
 if __name__ == "__main__":

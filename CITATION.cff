@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "daily-musiclog: one piece of music a day, kept as a small dataset"
+type: dataset
+authors:
+  - family-names: "Yılmaz"
+    given-names: "Muhammed İkbal"
+repository-code: "https://github.com/mikbalyilmaz/daily-musiclog"
+license: MIT
+date-released: 2026-11-11
