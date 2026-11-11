@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-11-11**: [Sister Rosetta Tharpe - Didn't it rain, children](https://www.youtube.com/watch?v=3NFywQdeKSo) · cerinto
 - **2026-11-10**: [Like It Is - Yusef Lateef (The Blue Yusef Lateef).wmv](https://www.youtube.com/watch?v=MAxdTSc_fts) · MrJoatman
 - **2026-11-09**: [L'Impératrice ♙ PARFUM THÉRÉMINE](https://www.youtube.com/watch?v=5Ksp63RJuaU) · L'Impératrice
 - **2026-11-08**: [Manu Dibango - Soul Makossa](https://www.youtube.com/watch?v=w2jYjUiulMQ) · M-YAMI

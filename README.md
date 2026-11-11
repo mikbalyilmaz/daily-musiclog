@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=MAxdTSc_fts">
-  <img src="https://img.youtube.com/vi/MAxdTSc_fts/hqdefault.jpg" width="320" alt="Like It Is - Yusef Lateef (The Blue Yusef Lateef).wmv">
+<a href="https://www.youtube.com/watch?v=3NFywQdeKSo">
+  <img src="https://img.youtube.com/vi/3NFywQdeKSo/hqdefault.jpg" width="320" alt="Sister Rosetta Tharpe - Didn't it rain, children">
 </a>
 
-**2026-11-10**: [Like It Is - Yusef Lateef (The Blue Yusef Lateef).wmv](https://www.youtube.com/watch?v=MAxdTSc_fts) · MrJoatman
+**2026-11-11**: [Sister Rosetta Tharpe - Didn't it rain, children](https://www.youtube.com/watch?v=3NFywQdeKSo) · cerinto
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-92 entries on 81 days between 2026-01-29 and 2026-11-10 (286 calendar days); 90 distinct videos.
+93 entries on 82 days between 2026-01-29 and 2026-11-11 (287 calendar days); 91 distinct videos.
 <!-- STATS:END -->
 Full list, newest first: [docs/archive.md](docs/archive.md).
 
