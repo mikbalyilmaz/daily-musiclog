@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=3NFywQdeKSo">
-  <img src="https://img.youtube.com/vi/3NFywQdeKSo/hqdefault.jpg" width="320" alt="Sister Rosetta Tharpe - Didn't it rain, children">
+<a href="https://www.youtube.com/watch?v=Li1dtJ6jC4w">
+  <img src="https://img.youtube.com/vi/Li1dtJ6jC4w/hqdefault.jpg" width="320" alt="Mills Brothers - Swing It, Sister">
 </a>
 
-**2026-11-11**: [Sister Rosetta Tharpe - Didn't it rain, children](https://www.youtube.com/watch?v=3NFywQdeKSo) · cerinto
+**2026-11-13**: [Mills Brothers - Swing It, Sister](https://www.youtube.com/watch?v=Li1dtJ6jC4w) · SbrPL
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-93 entries on 82 days between 2026-01-29 and 2026-11-11 (287 calendar days); 91 distinct videos.
+94 entries on 83 days between 2026-01-29 and 2026-11-13 (289 calendar days); 92 distinct videos.
 <!-- STATS:END -->
 
 ![Entries per day](docs/calendar.svg)

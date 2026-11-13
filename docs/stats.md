@@ -2,9 +2,9 @@
 
 Generated from `data/daily_tracks.csv`.
 
-93 entries on 82 days between 2026-01-29 and 2026-11-11 (287 calendar days); 91 distinct videos.
+94 entries on 83 days between 2026-01-29 and 2026-11-13 (289 calendar days); 92 distinct videos.
 
-- Days without an entry: 205 of 287.
+- Days without an entry: 206 of 289.
 - Longest run of consecutive days with an entry: 13 (2026-10-30 to 2026-11-11).
 - Days with more than one entry: 8.
 
@@ -21,11 +21,11 @@ Generated from `data/daily_tracks.csv`.
 | 2026-06 | 1 | 1 |
 | 2026-09 | 3 | 1 |
 | 2026-10 | 22 | 19 |
-| 2026-11 | 13 | 11 |
+| 2026-11 | 14 | 12 |
 
 ## Artists with two or more entries
 
-The artist is the name given in the title of the video or by its channel (composer or performer); 7 of 93 entries name none. 65 different names.
+The artist is the name given in the title of the video or by its channel (composer or performer); 7 of 94 entries name none. 66 different names.
 
 | Artist | Entries |
 |---|---:|
@@ -50,6 +50,7 @@ The artist is the name given in the title of the video or by its channel (compos
 | Channel | Entries |
 |---|---:|
 | Kalan Müzik | 3 |
+| SbrPL | 3 |
 | Anouar Brahem | 2 |
 | Anouar Brahem - Topic | 2 |
 | Del Vivaldi | 2 |
@@ -58,7 +59,6 @@ The artist is the name given in the title of the video or by its channel (compos
 | mavi07gece | 2 |
 | OSSİ MÜZİK | 2 |
 | RHINO | 2 |
-| SbrPL | 2 |
 | SNOT | 2 |
 
 ## Videos entered more than once
