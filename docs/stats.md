@@ -2,9 +2,9 @@
 
 Generated from `data/daily_tracks.csv`.
 
-94 entries on 83 days between 2026-01-29 and 2026-11-13 (289 calendar days); 92 distinct videos.
+95 entries on 84 days between 2026-01-29 and 2026-11-14 (290 calendar days); 93 distinct videos.
 
-- Days without an entry: 206 of 289.
+- Days without an entry: 206 of 290.
 - Longest run of consecutive days with an entry: 13 (2026-10-30 to 2026-11-11).
 - Days with more than one entry: 8.
 
@@ -21,17 +21,17 @@ Generated from `data/daily_tracks.csv`.
 | 2026-06 | 1 | 1 |
 | 2026-09 | 3 | 1 |
 | 2026-10 | 22 | 19 |
-| 2026-11 | 14 | 12 |
+| 2026-11 | 15 | 13 |
 
 ## Artists with two or more entries
 
-The artist is the name given in the title of the video or by its channel (composer or performer); 7 of 94 entries name none. 66 different names.
+The artist is the name given in the title of the video or by its channel (composer or performer); 7 of 95 entries name none. 66 different names.
 
 | Artist | Entries |
 |---|---:|
 | Anouar Brahem | 4 |
+| MFÖ | 4 |
 | Fikret Kızılok | 3 |
-| MFÖ | 3 |
 | The Jubalaires | 3 |
 | Vivaldi | 3 |
 | B.B. King | 2 |
@@ -50,6 +50,7 @@ The artist is the name given in the title of the video or by its channel (compos
 | Channel | Entries |
 |---|---:|
 | Kalan Müzik | 3 |
+| OSSİ MÜZİK | 3 |
 | SbrPL | 3 |
 | Anouar Brahem | 2 |
 | Anouar Brahem - Topic | 2 |
@@ -57,7 +58,6 @@ The artist is the name given in the title of the video or by its channel (compos
 | DW Classical Music | 2 |
 | jeffbuckleyVEVO | 2 |
 | mavi07gece | 2 |
-| OSSİ MÜZİK | 2 |
 | RHINO | 2 |
 | SNOT | 2 |
 

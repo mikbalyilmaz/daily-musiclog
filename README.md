@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=Li1dtJ6jC4w">
-  <img src="https://img.youtube.com/vi/Li1dtJ6jC4w/hqdefault.jpg" width="320" alt="Mills Brothers - Swing It, Sister">
+<a href="https://www.youtube.com/watch?v=nr5ex_94vp0">
+  <img src="https://img.youtube.com/vi/nr5ex_94vp0/hqdefault.jpg" width="320" alt="MFÖ - Mecburen (Official Audio)">
 </a>
 
-**2026-11-13**: [Mills Brothers - Swing It, Sister](https://www.youtube.com/watch?v=Li1dtJ6jC4w) · SbrPL
+**2026-11-14**: [MFÖ - Mecburen (Official Audio)](https://www.youtube.com/watch?v=nr5ex_94vp0) · OSSİ MÜZİK
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-94 entries on 83 days between 2026-01-29 and 2026-11-13 (289 calendar days); 92 distinct videos.
+95 entries on 84 days between 2026-01-29 and 2026-11-14 (290 calendar days); 93 distinct videos.
 <!-- STATS:END -->
 
 ![Entries per day](docs/calendar.svg)
