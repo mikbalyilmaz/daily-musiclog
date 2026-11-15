@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=nr5ex_94vp0">
-  <img src="https://img.youtube.com/vi/nr5ex_94vp0/hqdefault.jpg" width="320" alt="MFÖ - Mecburen (Official Audio)">
+<a href="https://www.youtube.com/watch?v=dvRwZga4hAE">
+  <img src="https://img.youtube.com/vi/dvRwZga4hAE/hqdefault.jpg" width="320" alt="B. B. King - The Thrill Is Gone. New York 1971">
 </a>
 
-**2026-11-14**: [MFÖ - Mecburen (Official Audio)](https://www.youtube.com/watch?v=nr5ex_94vp0) · OSSİ MÜZİK
+**2026-11-15**: [B. B. King - The Thrill Is Gone. New York 1971](https://www.youtube.com/watch?v=dvRwZga4hAE) · Farkle Berry
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-95 entries on 84 days between 2026-01-29 and 2026-11-14 (290 calendar days); 93 distinct videos.
+96 entries on 85 days between 2026-01-29 and 2026-11-15 (291 calendar days); 94 distinct videos.
 <!-- STATS:END -->
 
 ![Entries per day](docs/calendar.svg)
