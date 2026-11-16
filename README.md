@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=dvRwZga4hAE">
-  <img src="https://img.youtube.com/vi/dvRwZga4hAE/hqdefault.jpg" width="320" alt="B. B. King - The Thrill Is Gone. New York 1971">
+<a href="https://www.youtube.com/watch?v=klPZIGQcrHA">
+  <img src="https://img.youtube.com/vi/klPZIGQcrHA/hqdefault.jpg" width="320" alt="Haendel - Sarabande">
 </a>
 
-**2026-11-15**: [B. B. King - The Thrill Is Gone. New York 1971](https://www.youtube.com/watch?v=dvRwZga4hAE) · Farkle Berry
+**2026-11-16**: [Haendel - Sarabande](https://www.youtube.com/watch?v=klPZIGQcrHA) · JB F
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-96 entries on 85 days between 2026-01-29 and 2026-11-15 (291 calendar days); 94 distinct videos.
+97 entries on 86 days between 2026-01-29 and 2026-11-16 (292 calendar days); 95 distinct videos.
 <!-- STATS:END -->
 
 ![Entries per day](docs/calendar.svg)

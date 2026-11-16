@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-11-16**: [Haendel - Sarabande](https://www.youtube.com/watch?v=klPZIGQcrHA) · JB F
 - **2026-11-15**: [B. B. King - The Thrill Is Gone. New York 1971](https://www.youtube.com/watch?v=dvRwZga4hAE) · Farkle Berry
 - **2026-11-14**: [MFÖ - Mecburen (Official Audio)](https://www.youtube.com/watch?v=nr5ex_94vp0) · OSSİ MÜZİK
 - **2026-11-13**: [Mills Brothers - Swing It, Sister](https://www.youtube.com/watch?v=Li1dtJ6jC4w) · SbrPL

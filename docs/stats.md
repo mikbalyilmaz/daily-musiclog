@@ -2,9 +2,9 @@
 
 Generated from `data/daily_tracks.csv`.
 
-96 entries on 85 days between 2026-01-29 and 2026-11-15 (291 calendar days); 94 distinct videos.
+97 entries on 86 days between 2026-01-29 and 2026-11-16 (292 calendar days); 95 distinct videos.
 
-- Days without an entry: 206 of 291.
+- Days without an entry: 206 of 292.
 - Longest run of consecutive days with an entry: 13 (2026-10-30 to 2026-11-11).
 - Days with more than one entry: 8.
 
@@ -21,11 +21,11 @@ Generated from `data/daily_tracks.csv`.
 | 2026-06 | 1 | 1 |
 | 2026-09 | 3 | 1 |
 | 2026-10 | 22 | 19 |
-| 2026-11 | 16 | 14 |
+| 2026-11 | 17 | 15 |
 
 ## Artists with two or more entries
 
-The artist is the name given in the title of the video or by its channel (composer or performer); 7 of 96 entries name none. 67 different names.
+The artist is the name given in the title of the video or by its channel (composer or performer); 7 of 97 entries name none. 68 different names.
 
 | Artist | Entries |
 |---|---:|
