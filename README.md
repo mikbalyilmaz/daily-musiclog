@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=klPZIGQcrHA">
-  <img src="https://img.youtube.com/vi/klPZIGQcrHA/hqdefault.jpg" width="320" alt="Haendel - Sarabande">
+<a href="https://www.youtube.com/watch?v=vCHREyE5GzQ">
+  <img src="https://img.youtube.com/vi/vCHREyE5GzQ/hqdefault.jpg" width="320" alt="Beethoven - Symphony No.7 in A major op.92 - II, Allegretto">
 </a>
 
-**2026-11-16**: [Haendel - Sarabande](https://www.youtube.com/watch?v=klPZIGQcrHA) · JB F
+**2026-11-17**: [Beethoven - Symphony No.7 in A major op.92 - II, Allegretto](https://www.youtube.com/watch?v=vCHREyE5GzQ) · neuIlaryRheinKlange
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-97 entries on 86 days between 2026-01-29 and 2026-11-16 (292 calendar days); 95 distinct videos.
+98 entries on 87 days between 2026-01-29 and 2026-11-17 (293 calendar days); 96 distinct videos.
 <!-- STATS:END -->
 
 ![Entries per day](docs/calendar.svg)
