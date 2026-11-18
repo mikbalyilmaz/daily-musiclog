@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=vCHREyE5GzQ">
-  <img src="https://img.youtube.com/vi/vCHREyE5GzQ/hqdefault.jpg" width="320" alt="Beethoven - Symphony No.7 in A major op.92 - II, Allegretto">
+<a href="https://www.youtube.com/watch?v=3w_InVVk5KU">
+  <img src="https://img.youtube.com/vi/3w_InVVk5KU/hqdefault.jpg" width="320" alt="Chan chan">
 </a>
 
-**2026-11-17**: [Beethoven - Symphony No.7 in A major op.92 - II, Allegretto](https://www.youtube.com/watch?v=vCHREyE5GzQ) · neuIlaryRheinKlange
+**2026-11-18**: [Chan chan](https://www.youtube.com/watch?v=3w_InVVk5KU) · Compay Segundo - Topic
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-98 entries on 87 days between 2026-01-29 and 2026-11-17 (293 calendar days); 96 distinct videos.
+99 entries on 88 days between 2026-01-29 and 2026-11-18 (294 calendar days); 97 distinct videos.
 <!-- STATS:END -->
 
 ![Entries per day](docs/calendar.svg)
