@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=3w_InVVk5KU">
-  <img src="https://img.youtube.com/vi/3w_InVVk5KU/hqdefault.jpg" width="320" alt="Chan chan">
+<a href="https://www.youtube.com/watch?v=kcGFdnpf7To">
+  <img src="https://img.youtube.com/vi/kcGFdnpf7To/hqdefault.jpg" width="320" alt="Howlin' Wolf - Down In The Bottom (Live)">
 </a>
 
-**2026-11-18**: [Chan chan](https://www.youtube.com/watch?v=3w_InVVk5KU) · Compay Segundo - Topic
+**2026-11-20**: [Howlin' Wolf - Down In The Bottom (Live)](https://www.youtube.com/watch?v=kcGFdnpf7To) · HOWLINWOLFVEVO
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-99 entries on 88 days between 2026-01-29 and 2026-11-18 (294 calendar days); 97 distinct videos.
+100 entries on 89 days between 2026-01-29 and 2026-11-20 (296 calendar days); 98 distinct videos.
 <!-- STATS:END -->
 
 ![Entries per day](docs/calendar.svg)
