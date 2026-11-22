@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=-iVgONy8kMY">
-  <img src="https://img.youtube.com/vi/-iVgONy8kMY/hqdefault.jpg" width="320" alt="Wes Montgomery - Here's That Rainy Day -  Live London 1965">
+<a href="https://www.youtube.com/watch?v=Nv2GgV34qIg">
+  <img src="https://img.youtube.com/vi/Nv2GgV34qIg/hqdefault.jpg" width="320" alt="Bill Evans &quot;Peace Piece&quot;">
 </a>
 
-**2026-11-21**: [Wes Montgomery - Here's That Rainy Day -  Live London 1965](https://www.youtube.com/watch?v=-iVgONy8kMY) · saag111
+**2026-11-22**: [Bill Evans "Peace Piece"](https://www.youtube.com/watch?v=Nv2GgV34qIg) · William Repicci
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-101 entries on 90 days between 2026-01-29 and 2026-11-21 (297 calendar days); 99 distinct videos.
+102 entries on 91 days between 2026-01-29 and 2026-11-22 (298 calendar days); 100 distinct videos.
 <!-- STATS:END -->
 
 ![Entries per day](docs/calendar.svg)

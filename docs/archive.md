@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-11-22**: [Bill Evans "Peace Piece"](https://www.youtube.com/watch?v=Nv2GgV34qIg) · William Repicci
 - **2026-11-21**: [Wes Montgomery - Here's That Rainy Day -  Live London 1965](https://www.youtube.com/watch?v=-iVgONy8kMY) · saag111
 - **2026-11-20**: [Howlin' Wolf - Down In The Bottom (Live)](https://www.youtube.com/watch?v=kcGFdnpf7To) · HOWLINWOLFVEVO
 - **2026-11-18**: [Chan chan](https://www.youtube.com/watch?v=3w_InVVk5KU) · Compay Segundo - Topic
