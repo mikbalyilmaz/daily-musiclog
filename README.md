@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=Nv2GgV34qIg">
-  <img src="https://img.youtube.com/vi/Nv2GgV34qIg/hqdefault.jpg" width="320" alt="Bill Evans &quot;Peace Piece&quot;">
+<a href="https://www.youtube.com/watch?v=ElowaWp95Vc">
+  <img src="https://img.youtube.com/vi/ElowaWp95Vc/hqdefault.jpg" width="320" alt="Tenderly">
 </a>
 
-**2026-11-22**: [Bill Evans "Peace Piece"](https://www.youtube.com/watch?v=Nv2GgV34qIg) · William Repicci
+**2026-11-23**: [Tenderly](https://www.youtube.com/watch?v=ElowaWp95Vc) · Chet Baker - Topic
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-102 entries on 91 days between 2026-01-29 and 2026-11-22 (298 calendar days); 100 distinct videos.
+103 entries on 92 days between 2026-01-29 and 2026-11-23 (299 calendar days); 101 distinct videos.
 <!-- STATS:END -->
 
 ![Entries per day](docs/calendar.svg)
