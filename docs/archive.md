@@ -2,6 +2,7 @@
 
 Generated from `data/daily_tracks.csv`; newest first.
 
+- **2026-11-24**: [Pink Floyd - Julia Dream (1968)](https://www.youtube.com/watch?v=SPBfx4_WT-w) · ThinkFloyd61
 - **2026-11-23**: [Tenderly](https://www.youtube.com/watch?v=ElowaWp95Vc) · Chet Baker - Topic
 - **2026-11-22**: [Bill Evans "Peace Piece"](https://www.youtube.com/watch?v=Nv2GgV34qIg) · William Repicci
 - **2026-11-21**: [Wes Montgomery - Here's That Rainy Day -  Live London 1965](https://www.youtube.com/watch?v=-iVgONy8kMY) · saag111

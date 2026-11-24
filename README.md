@@ -6,15 +6,15 @@ the newest entry is shown below and on my [GitHub profile](https://github.com/mi
 ## Latest entry
 
 <!-- CHOSEN_TODAY:START -->
-<a href="https://www.youtube.com/watch?v=ElowaWp95Vc">
-  <img src="https://img.youtube.com/vi/ElowaWp95Vc/hqdefault.jpg" width="320" alt="Tenderly">
+<a href="https://www.youtube.com/watch?v=SPBfx4_WT-w">
+  <img src="https://img.youtube.com/vi/SPBfx4_WT-w/hqdefault.jpg" width="320" alt="Pink Floyd - Julia Dream (1968)">
 </a>
 
-**2026-11-23**: [Tenderly](https://www.youtube.com/watch?v=ElowaWp95Vc) · Chet Baker - Topic
+**2026-11-24**: [Pink Floyd - Julia Dream (1968)](https://www.youtube.com/watch?v=SPBfx4_WT-w) · ThinkFloyd61
 <!-- CHOSEN_TODAY:END -->
 
 <!-- STATS:START -->
-103 entries on 92 days between 2026-01-29 and 2026-11-23 (299 calendar days); 101 distinct videos.
+104 entries on 93 days between 2026-01-29 and 2026-11-24 (300 calendar days); 102 distinct videos.
 <!-- STATS:END -->
 
 ![Entries per day](docs/calendar.svg)
